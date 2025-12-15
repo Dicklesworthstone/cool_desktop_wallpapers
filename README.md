@@ -15,7 +15,6 @@ These wallpapers were created using **Midjourney** with prompts describing histo
 | `seville.png` | Seville, Spain circa 1509 |
 | `tenochtitlan-1.png` - `tenochtitlan-4.png` | Tenochtitlan, Aztec Empire |
 | `temple-1.png` - `temple-2.png` | The First Temple of Jerusalem |
-| `wallhaven.png` | Additional wallpaper from Wallhaven |
 
 ## Resolution
 
